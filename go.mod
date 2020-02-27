@@ -1,4 +1,4 @@
-module github.com/smartxff/hyperledger-fabric-chaincodes/demo
+module github.com/smartxff/hyperledger-fabric-chaincodes-demo
 
 go 1.13
 
